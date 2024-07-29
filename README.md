@@ -5,7 +5,7 @@
 This repository provides scripts for processing a bird dataset, identifying outliers, and handling these outliers by moving them to a designated directory. The following steps outline the process:
 
 ### Prerequisites
-- Required Libraries: fastdup, os, pandas, PIL, numpy, matplotlib, seaborn, sklearn, shutil
+- Required Libraries: ```fastdup, os, pandas, PIL, numpy, matplotlib, seaborn, sklearn, shutil```
 
 ### Installation
 
